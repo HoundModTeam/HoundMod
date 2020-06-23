@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "houndtools_sword",
+    "customModelName": "Normal",
+    "name": "Épée en Hound",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 15,
+    "efficiency": 15.0,
+    "attackSpeed": 5.0,
+    "enchantability": 14,
+    "damageVsEntity": 10.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:HoundIngot"
+      }
+    ]
+  }
+}

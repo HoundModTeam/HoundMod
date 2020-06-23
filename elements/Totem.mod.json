@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#15"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RubisGem"
+      },
+      {
+        "value": "CUSTOM:HoundOreBlock"
+      },
+      {
+        "value": "CUSTOM:RubisGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RubisOreBlock"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Totemofchicken"
+    },
+    "name": "totem",
+    "namespace": "mod"
+  }
+}

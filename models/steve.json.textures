@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "hound_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

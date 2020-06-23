@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "houndmod:blocks/rubisore",
+    "particle": "houndmod:blocks/rubisore"
+  }
+}

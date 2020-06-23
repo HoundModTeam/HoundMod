@@ -1,0 +1,13 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "houndmod:rubisoreblock"
+    }
+  ],
+  "result": {
+    "item": "houndmod:rubisgem",
+    "count": 9
+  }
+}

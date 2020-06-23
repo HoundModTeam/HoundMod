@@ -1,0 +1,29 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:compressedatomium"
+    },
+    "1": {
+      "item": "houndmod:compressedatomium"
+    },
+    "2": {
+      "item": "houndmod:compressedatomium"
+    },
+    "3": {
+      "item": "houndmod:compressedatomium"
+    },
+    "5": {
+      "item": "houndmod:compressedatomium"
+    }
+  },
+  "result": {
+    "item": "houndmod:hardiumarmorhelmet",
+    "count": 1
+  }
+}

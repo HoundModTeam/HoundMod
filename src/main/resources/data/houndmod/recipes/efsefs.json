@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:bow"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "houndmod:titanstick"
+    },
+    "7": {
+      "item": "houndmod:titanstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:bowstick",
+    "count": 1
+  }
+}

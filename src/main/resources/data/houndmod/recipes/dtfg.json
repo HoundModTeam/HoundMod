@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:compressedhound"
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "houndmod:compressedhound"
+    },
+    "4": {
+      "item": "houndmod:houndstick"
+    },
+    "7": {
+      "item": "houndmod:houndstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:stickofzeus",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "1": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "2": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "3": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "4": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "5": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "6": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "7": {
+      "item": "houndmod:atomiumnnugget"
+    },
+    "8": {
+      "item": "houndmod:atomiumnnugget"
+    }
+  },
+  "result": {
+    "item": "houndmod:hardiumingot",
+    "count": 1
+  }
+}

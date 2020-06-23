@@ -1,0 +1,27 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:houndingot"
+    },
+    "1": {
+      "item": "houndmod:houndingot"
+    },
+    "3": {
+      "item": "houndmod:houndstick"
+    },
+    "5": {
+      "item": "houndmod:houndstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:houndtoolshoe",
+    "count": 1
+  }
+}

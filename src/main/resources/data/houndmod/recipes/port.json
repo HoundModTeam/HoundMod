@@ -1,0 +1,42 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:rubisgem"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "houndmod:rubisgem"
+    },
+    "3": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "item": "minecraft:ender_chest"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "6": {
+      "item": "houndmod:rubisgem"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "item": "houndmod:rubisgem"
+    }
+  },
+  "result": {
+    "item": "houndmod:portablechest",
+    "count": 1
+  }
+}

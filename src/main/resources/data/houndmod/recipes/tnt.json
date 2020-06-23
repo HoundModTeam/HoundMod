@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gunpowder"
+    },
+    "1": {
+      "item": "minecraft:tnt"
+    },
+    "2": {
+      "item": "minecraft:gunpowder"
+    },
+    "4": {
+      "item": "houndmod:rubisstick"
+    },
+    "7": {
+      "item": "houndmod:rubisstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:tntstick",
+    "count": 1
+  }
+}

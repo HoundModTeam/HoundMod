@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hardiummultitool",
+    "customModelName": "Normal",
+    "name": "Atomium Staff of Power",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 3,
+    "efficiency": 250.0,
+    "attackSpeed": 2.0,
+    "enchantability": 5,
+    "damageVsEntity": 30.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

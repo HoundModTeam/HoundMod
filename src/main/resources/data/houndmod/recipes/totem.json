@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:black_stained_glass_pane"
+    },
+    "3": {
+      "item": "houndmod:rubisgem"
+    },
+    "4": {
+      "item": "houndmod:houndoreblock"
+    },
+    "5": {
+      "item": "houndmod:rubisgem"
+    },
+    "7": {
+      "item": "houndmod:rubisoreblock"
+    }
+  },
+  "result": {
+    "item": "houndmod:totemofchicken",
+    "count": 1
+  }
+}

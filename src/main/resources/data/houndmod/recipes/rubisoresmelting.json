@@ -1,0 +1,12 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:smelting",
+  "experience": 1.4,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "houndmod:rubisore"
+  },
+  "result": {
+    "item": "houndmod:rubisgem"
+  }
+}

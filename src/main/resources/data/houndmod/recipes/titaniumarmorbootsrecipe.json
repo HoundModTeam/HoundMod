@@ -1,0 +1,26 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:titaniumingot"
+    },
+    "2": {
+      "item": "houndmod:titaniumingot"
+    },
+    "3": {
+      "item": "houndmod:titaniumingot"
+    },
+    "5": {
+      "item": "houndmod:titaniumingot"
+    }
+  },
+  "result": {
+    "item": "houndmod:titaniumarmorboots",
+    "count": 1
+  }
+}

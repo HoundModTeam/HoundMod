@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:titaniumoreblock"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "houndmod:titaniumoreblock"
+    },
+    "4": {
+      "item": "houndmod:titanstick"
+    },
+    "7": {
+      "item": "houndmod:titanstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:healstick",
+    "count": 1
+  }
+}

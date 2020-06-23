@@ -1,0 +1,29 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:rubisgem"
+    },
+    "1": {
+      "item": "houndmod:rubisgem"
+    },
+    "2": {
+      "item": "houndmod:rubisgem"
+    },
+    "3": {
+      "item": "houndmod:rubisgem"
+    },
+    "5": {
+      "item": "houndmod:rubisgem"
+    }
+  },
+  "result": {
+    "item": "houndmod:rubisarmorhelmet",
+    "count": 1
+  }
+}

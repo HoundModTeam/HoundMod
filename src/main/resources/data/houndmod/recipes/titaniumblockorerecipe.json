@@ -1,0 +1,13 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "houndmod:titaniumoreblock"
+    }
+  ],
+  "result": {
+    "item": "houndmod:titaniumingot",
+    "count": 9
+  }
+}

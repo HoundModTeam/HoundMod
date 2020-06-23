@@ -1,0 +1,7 @@
+{
+  "_fv": 8,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"89\" y=\"44\"><field name=\"trigger\">No additional trigger</field><next><block type=\"entity_add_potion\"><field name=\"potion\">NIGHT_VISION</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"duration\"><block type=\"math_number\"><field name=\"NUM\">30</field></block></value><next><block type=\"entity_add_potion\"><field name=\"potion\">SATURATION</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">20</field></block></value><value name=\"duration\"><block type=\"math_number\"><field name=\"NUM\">30</field></block></value><next><block type=\"entity_add_potion\"><field name=\"potion\">WATER_BREATHING</field><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">5</field></block></value><value name=\"duration\"><block type=\"math_number\"><field name=\"NUM\">30</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></next><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></next><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></next></block></xml>"
+  }
+}

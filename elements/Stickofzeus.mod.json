@@ -1,0 +1,27 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hbvgxhr",
+    "customModelName": "Normal",
+    "name": "Lightning of zeus",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "onRightClickedInAir": {
+      "name": "StickofzeusRightClickedInAir"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 8,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc",
+    "name": "OOF Music disc",
+    "description": "Crabe rave x Roblox = this music disc",
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "music": {
+      "value": "CUSTOM:offsound"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

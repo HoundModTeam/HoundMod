@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Hound Mod",
+    "icon": {
+      "value": "CUSTOM:HoundIngot"
+    },
+    "showSearch": false
+  }
+}

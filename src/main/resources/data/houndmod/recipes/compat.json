@@ -1,0 +1,42 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "1": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "2": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "3": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "4": {
+      "item": "houndmod:hardiumingot"
+    },
+    "5": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "6": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "7": {
+      "item": "houndmod:hardiumoreblock"
+    },
+    "8": {
+      "item": "houndmod:hardiumoreblock"
+    }
+  },
+  "result": {
+    "item": "houndmod:compressedatomium",
+    "count": 1
+  }
+}

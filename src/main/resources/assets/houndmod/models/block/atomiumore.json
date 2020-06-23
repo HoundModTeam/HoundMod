@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "houndmod:blocks/unnamed",
+    "up": "houndmod:blocks/unnamed",
+    "north": "houndmod:blocks/unnamed",
+    "east": "houndmod:blocks/unnamed",
+    "south": "houndmod:blocks/unnamed",
+    "west": "houndmod:blocks/unnamed",
+    "particle": "houndmod:blocks/unnamed"
+  }
+}

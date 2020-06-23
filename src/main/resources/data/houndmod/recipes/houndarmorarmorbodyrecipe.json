@@ -1,0 +1,39 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:houndingot"
+    },
+    "2": {
+      "item": "houndmod:houndingot"
+    },
+    "3": {
+      "item": "houndmod:houndingot"
+    },
+    "4": {
+      "item": "houndmod:houndingot"
+    },
+    "5": {
+      "item": "houndmod:houndingot"
+    },
+    "6": {
+      "item": "houndmod:houndingot"
+    },
+    "7": {
+      "item": "houndmod:houndingot"
+    },
+    "8": {
+      "item": "houndmod:houndingot"
+    }
+  },
+  "result": {
+    "item": "houndmod:houndarmorarmorbody",
+    "count": 1
+  }
+}

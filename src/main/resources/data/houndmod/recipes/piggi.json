@@ -1,0 +1,24 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:pigiblock"
+    },
+    "1": {
+      "item": "houndmod:rubisstick"
+    },
+    "2": {
+      "item": "houndmod:rubisstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:pigstick",
+    "count": 1
+  }
+}

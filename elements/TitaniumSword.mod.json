@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanium_sword",
+    "customModelName": "Normal",
+    "name": "Titanium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 42,
+    "damageVsEntity": 6.0,
+    "usageCount": 1164,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      }
+    ]
+  }
+}

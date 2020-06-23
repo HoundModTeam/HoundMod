@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:rubisgem"
+    },
+    "1": {
+      "item": "houndmod:rubisgem"
+    },
+    "2": {
+      "item": "houndmod:rubisgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "houndmod:rubispickaxe",
+    "count": 1
+  }
+}

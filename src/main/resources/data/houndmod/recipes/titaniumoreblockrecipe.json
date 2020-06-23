@@ -1,0 +1,42 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:titaniumingot"
+    },
+    "1": {
+      "item": "houndmod:titaniumingot"
+    },
+    "2": {
+      "item": "houndmod:titaniumingot"
+    },
+    "3": {
+      "item": "houndmod:titaniumingot"
+    },
+    "4": {
+      "item": "houndmod:titaniumingot"
+    },
+    "5": {
+      "item": "houndmod:titaniumingot"
+    },
+    "6": {
+      "item": "houndmod:titaniumingot"
+    },
+    "7": {
+      "item": "houndmod:titaniumingot"
+    },
+    "8": {
+      "item": "houndmod:titaniumingot"
+    }
+  },
+  "result": {
+    "item": "houndmod:titaniumoreblock",
+    "count": 1
+  }
+}

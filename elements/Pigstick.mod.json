@@ -1,0 +1,32 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pigsticktexture",
+    "customModelName": "Normal",
+    "name": "Pigstick",
+    "specialInfo": [
+      "Spawn pig"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onRightClickedInAir": {
+      "name": "PigstickRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "PigstickRightClickedOnBlock"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kfc": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "houndmod:kfc",
+        "stream": false
+      }
+    ]
+  },
+  "offsound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "houndmod:crab-rave-but-its-roblox-death-sound",
+        "stream": false
+      }
+    ]
+  }
+}

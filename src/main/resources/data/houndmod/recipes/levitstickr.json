@@ -1,0 +1,30 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:rubisoreblock"
+    },
+    "1": {
+      "item": "minecraft:shulker_shell"
+    },
+    "2": {
+      "item": "houndmod:rubisoreblock"
+    },
+    "4": {
+      "item": "houndmod:rubisstick"
+    },
+    "7": {
+      "item": "houndmod:rubisstick"
+    }
+  },
+  "result": {
+    "item": "houndmod:jumpstick",
+    "count": 1
+  }
+}

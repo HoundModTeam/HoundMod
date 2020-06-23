@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rubis_pickaxe",
+    "customModelName": "Normal",
+    "name": "Rubis Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:HoundMod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 3.0,
+    "attackSpeed": 1.0,
+    "enchantability": 28,
+    "damageVsEntity": 4.0,
+    "usageCount": 660,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:RubisGem"
+      }
+    ]
+  }
+}

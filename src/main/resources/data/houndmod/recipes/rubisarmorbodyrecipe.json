@@ -1,0 +1,39 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:rubisgem"
+    },
+    "2": {
+      "item": "houndmod:rubisgem"
+    },
+    "3": {
+      "item": "houndmod:rubisgem"
+    },
+    "4": {
+      "item": "houndmod:rubisgem"
+    },
+    "5": {
+      "item": "houndmod:rubisgem"
+    },
+    "6": {
+      "item": "houndmod:rubisgem"
+    },
+    "7": {
+      "item": "houndmod:rubisgem"
+    },
+    "8": {
+      "item": "houndmod:rubisgem"
+    }
+  },
+  "result": {
+    "item": "houndmod:rubisarmorbody",
+    "count": 1
+  }
+}

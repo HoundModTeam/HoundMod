@@ -1,0 +1,20 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:compressedatomium"
+    },
+    "1": {
+      "item": "houndmod:compressedatomium"
+    }
+  },
+  "result": {
+    "item": "houndmod:atomiumstick",
+    "count": 2
+  }
+}

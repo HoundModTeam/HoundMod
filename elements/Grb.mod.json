@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      },
+      {
+        "value": "CUSTOM:Atomiumnnugget"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HardiumIngot"
+    },
+    "name": "grb",
+    "namespace": "mod"
+  }
+}

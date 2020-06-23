@@ -1,0 +1,13 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "houndmod:hardiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "houndmod:hardiumingot",
+    "count": 9
+  }
+}

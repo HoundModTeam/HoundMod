@@ -1,0 +1,26 @@
+{
+  "group": "houndmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "houndmod:compressedatomium"
+    },
+    "2": {
+      "item": "houndmod:compressedatomium"
+    },
+    "3": {
+      "item": "houndmod:compressedatomium"
+    },
+    "5": {
+      "item": "houndmod:compressedatomium"
+    }
+  },
+  "result": {
+    "item": "houndmod:hardiumarmorboots",
+    "count": 1
+  }
+}

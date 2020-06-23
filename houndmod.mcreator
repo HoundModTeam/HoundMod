@@ -1,0 +1,1444 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HoundOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundIngot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundOreSmelting",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundArmorArmor",
+      "type": "armor",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HoundArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsPickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsShovel",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsHoe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundtoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Houndstick",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stickhound",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Compressedhound",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Comphound",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Keycraft",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Usestickofhound",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stickhoundr",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoundappleFoodEaten",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Houndapple",
+      "type": "food",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ho",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stickofhound",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumOreBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumHoe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumArmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisOreBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisGem",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisOreSmelting",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisPickaxe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisAxe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisSword",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisShovel",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisHoe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisAxeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisSwordRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisShovelRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisHoeRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisArmor",
+      "type": "armor",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubisArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubisArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JumpStickRightClickedInAir",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jumpstick",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubisstick",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubisstickrecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Levitstickr",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitanStick",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sticktitan",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HealStickRightClickedInAir",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HealStick",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stickheal",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumOreBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumIngot",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HardiumArmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HardiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumMultiTool",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HardiumArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HoundArmorArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Atomiumstick",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atomistick",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atoimunstaff",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atomiumore",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atom",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Compressedatomium",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Compat",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Atomiumnnugget",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Grb",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tntstick",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TntstickRightClickedInAir",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tnt",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BowstickRightClickedInAir",
+      "type": "procedure",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bowstick",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Efsefs",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StickofzeusRightClickedInAir",
+      "type": "procedure",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stickofzeus",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dtfg",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FireStick",
+      "type": "gun",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zeus",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zeus"
+    },
+    {
+      "name": "PigstickRightClickedInAir",
+      "type": "procedure",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigstick_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pigiblock",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigiblock"
+    },
+    {
+      "name": "Pigstick",
+      "type": "tool",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigstick"
+    },
+    {
+      "name": "PigstickRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigstick_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Piggi",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggi"
+    },
+    {
+      "name": "Pigblock",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigblock"
+    },
+    {
+      "name": "HoundMod",
+      "type": "tab",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hound_mod"
+    },
+    {
+      "name": "Chest",
+      "type": "gui",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chest"
+    },
+    {
+      "name": "Portablechest",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portablechest"
+    },
+    {
+      "name": "Port",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "port"
+    },
+    {
+      "name": "Chickenboss",
+      "type": "mob",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chickenboss"
+    },
+    {
+      "name": "Totemofchicken",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "totemofchicken"
+    },
+    {
+      "name": "TotemofchickenRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "totemofchicken_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Totem",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "totem"
+    },
+    {
+      "name": "OOF",
+      "type": "musicdisc",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oof"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "kfc",
+      "file": "kfc",
+      "category": "master"
+    },
+    {
+      "name": "offsound",
+      "file": "crab-rave-but-its-roblox-death-sound",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.houndmod.houndarmorarmorboots": "Hound bootd",
+      "item.houndmod.oof.desc": "Crabe rave x Roblox \u003d this music disc",
+      "item.houndmod.titaniumingot": "Titanium",
+      "item.houndmod.houndtoolssword": "Hound sword",
+      "item.houndmod.oof": "OOF Music disc",
+      "item.houndmod.titaniumarmorhelmet": "Titanium Helmet",
+      "item.houndmod.titaniumaxe": "Titanium Axe",
+      "item.houndmod.stickofhound": "Stick of Hound",
+      "block.houndmod.houndore": "Hound ore",
+      "item.houndmod.rubisaxe": "Rubis Axe",
+      "item.houndmod.houndtoolspickaxe": "Hound pickaxe",
+      "block.houndmod.pigiblock": "Pigiblock",
+      "item.houndmod.chickenboss": "Cool chicken Spawn Egg",
+      "entity.houndmod.chickenboss": "Cool chicken",
+      "item.houndmod.houndtoolshoe": "Houe en Hound",
+      "item.houndmod.houndingot": "lingot de Hound",
+      "item.houndmod.hardiumarmorbody": "Atomium Chestplate",
+      "item.houndmod.rubisarmorboots": "Rubis Boots",
+      "item.houndmod.compressedatomium": "Compressed atomium",
+      "item.houndmod.hardiumingot": "Atomium",
+      "item.houndmod.hardiumarmorlegs": "Atomium Leggings",
+      "item.houndmod.titaniumarmorlegs": "Titanium Leggings",
+      "item.houndmod.houndarmorarmorbody": "Plastron en Hound",
+      "item.houndmod.houndarmorarmorlegs": "Jambières en Hound",
+      "item.houndmod.healstick": "Heal Stick",
+      "item.houndmod.rubisarmorhelmet": "Rubis Helmet",
+      "item.houndmod.titanstick": "Titan Stick",
+      "item.houndmod.titaniumsword": "Titanium Sword",
+      "item.houndmod.houndtoolsshovel": "Pelle en Hound",
+      "item.houndmod.titaniumarmorbody": "Titanium Chestplate",
+      "item.houndmod.houndapple": "Pomme en Hound",
+      "item.houndmod.atomiumnnugget": "Atomium Nugget",
+      "item.houndmod.titaniumhoe": "Titanium Hoe",
+      "item.houndmod.rubishoe": "Rubis Hoe",
+      "item.houndmod.rubisarmorbody": "Rubis Chestplate",
+      "item.houndmod.pigstick": "Pigstick",
+      "itemGroup.tabhound_mod": "Hound Mod",
+      "block.houndmod.titaniumore": "Titanium Ore",
+      "item.houndmod.hardiumarmorhelmet": "Atomium Helmet",
+      "block.houndmod.atomiumore": "Atomium ore",
+      "item.houndmod.compressedhound": "Hound compressé",
+      "item.houndmod.hardiumarmorboots": "Atomium Boots",
+      "block.houndmod.houndoreblock": "Bloc de Hound",
+      "item.houndmod.titaniumshovel": "Titanium Shovel",
+      "block.houndmod.hardiumoreblock": "Block of Atomium",
+      "item.houndmod.rubisgem": "Rubis",
+      "item.houndmod.rubisshovel": "Rubis Shovel",
+      "item.houndmod.hardiummultitool": "Atomium Staff of Power",
+      "item.houndmod.portablechest": "Portable chest",
+      "block.houndmod.rubisoreblock": "Block of Rubis",
+      "item.houndmod.firestick": "Fire Stick",
+      "item.houndmod.rubisarmorlegs": "Rubis Leggings",
+      "item.houndmod.stickofzeus": "Lightning of zeus",
+      "item.houndmod.titaniumpickaxe": "Titanium Pickaxe",
+      "item.houndmod.rubispickaxe": "Rubis Pickaxe",
+      "item.houndmod.houndtoolsaxe": "Hache en Hound",
+      "block.houndmod.rubisore": "Rubis Ore",
+      "item.houndmod.atomiumstick": "Atomium Stick",
+      "block.houndmod.titaniumoreblock": "Block of Titanium",
+      "item.houndmod.rubisstick": "Rubisstick",
+      "item.houndmod.tntstick": "Tntstick",
+      "item.houndmod.bowstick": "Bowstick",
+      "item.houndmod.houndarmorarmorhelmet": "Casque en Hound",
+      "item.houndmod.titaniumarmorboots": "Titanium Boots",
+      "item.houndmod.jumpstick": "Levitation Stick",
+      "item.houndmod.houndstick": "Bâton en Hound",
+      "item.houndmod.totemofchicken": "Totem of chicken",
+      "item.houndmod.rubissword": "Rubis Sword"
+    },
+    "fr_fr": {
+      "item.houndmod.houndarmorarmorboots": "Bottes en Hound",
+      "item.houndmod.oof.desc": "Crabe rave x Roblox \u003d this music disc",
+      "item.houndmod.houndtoolssword": "Épée en Hound",
+      "item.houndmod.titaniumingot": "Lingot de Titanium",
+      "item.houndmod.oof": "OOF Music disc",
+      "item.houndmod.titaniumarmorhelmet": "Casque en Titanium",
+      "item.houndmod.stickofhound": "Stick of Hound",
+      "item.houndmod.titaniumaxe": "Hache en Titanium",
+      "block.houndmod.houndore": "Minerais de Hound",
+      "item.houndmod.rubisaxe": "Hache en Rubis",
+      "item.houndmod.houndtoolspickaxe": "Pioche en Hound",
+      "block.houndmod.pigiblock": "Block de peppa pig :)",
+      "item.houndmod.chickenboss": "Chicken Boss Spawn Egg",
+      "entity.houndmod.chickenboss": "Chicken Boss",
+      "item.houndmod.houndtoolshoe": "Houe en Hound",
+      "item.houndmod.houndingot": "Lingot de Hound",
+      "item.houndmod.hardiumarmorbody": "Plastron en Atomium",
+      "item.houndmod.rubisarmorboots": "Bottes Rubis",
+      "item.houndmod.compressedatomium": "Atomium compressé",
+      "item.houndmod.hardiumingot": "Atomium",
+      "item.houndmod.hardiumarmorlegs": "Jambière en Atomium",
+      "item.houndmod.titaniumarmorlegs": "Jambière en Titanium",
+      "item.houndmod.houndarmorarmorbody": "Plastron en Hound",
+      "item.houndmod.houndarmorarmorlegs": "Jambières en Hound",
+      "item.houndmod.healstick": "Heal Stick",
+      "item.houndmod.rubisarmorhelmet": "Casque en Rubis",
+      "item.houndmod.titanstick": "Bâton en Titanium",
+      "item.houndmod.titaniumsword": "Épée en Titanium",
+      "item.houndmod.houndtoolsshovel": "Pelle en Hound",
+      "item.houndmod.titaniumarmorbody": "Plastron en Titanium",
+      "item.houndmod.houndapple": "Pomme en Hound",
+      "item.houndmod.atomiumnnugget": "Pépite d\u0027Atomium",
+      "item.houndmod.titaniumhoe": "Houe en Titanium",
+      "item.houndmod.rubishoe": "Houe en Rubis",
+      "item.houndmod.rubisarmorbody": "Plastron en Rubis",
+      "item.houndmod.pigstick": "Pigs Stick",
+      "itemGroup.tabhound_mod": "Hound Mod",
+      "block.houndmod.titaniumore": "Minerais de Titanium",
+      "item.houndmod.hardiumarmorhelmet": "Casque en atomium",
+      "block.houndmod.atomiumore": "Minerais d\u0027Atomium",
+      "item.houndmod.compressedhound": "Hound compréssé",
+      "item.houndmod.hardiumarmorboots": "Bottes en Atomium",
+      "block.houndmod.houndoreblock": "Bloc de Hound",
+      "item.houndmod.titaniumshovel": "Pelle en Titanium",
+      "block.houndmod.hardiumoreblock": "Bloc en Atomium",
+      "item.houndmod.rubisgem": "Rubis",
+      "item.houndmod.rubisshovel": "Pelle en Rubis",
+      "item.houndmod.hardiummultitool": "Atomium staff of power",
+      "item.houndmod.portablechest": "Portable chest",
+      "block.houndmod.rubisoreblock": "Bloc de Rubis",
+      "item.houndmod.firestick": "Stick de Feu",
+      "item.houndmod.rubisarmorlegs": "Jambières en Rubis",
+      "item.houndmod.stickofzeus": "L\u0027éclair de Zeus",
+      "item.houndmod.titaniumpickaxe": "Pioche en Titanium",
+      "item.houndmod.rubispickaxe": "Pioche en Rubis",
+      "item.houndmod.houndtoolsaxe": "Hache en Hound",
+      "block.houndmod.rubisore": "Minerais de Rubis",
+      "item.houndmod.atomiumstick": "Bâton Atomium",
+      "block.houndmod.titaniumoreblock": "Bloc de Titanium",
+      "item.houndmod.rubisstick": "Bâton en rubis",
+      "item.houndmod.tntstick": "Tnt stick",
+      "item.houndmod.bowstick": "Bow stick",
+      "item.houndmod.houndarmorarmorhelmet": "Casque en Hound",
+      "item.houndmod.titaniumarmorboots": "Bottes en Titanium",
+      "item.houndmod.jumpstick": "Levitation Stick",
+      "item.houndmod.houndstick": "Bâton en Hound",
+      "item.houndmod.totemofchicken": "Totem of chicken",
+      "item.houndmod.rubissword": "Épée en Rubis"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "houndmod",
+    "modName": "HoundMod",
+    "version": "1.4.3",
+    "description": "Ce mod rajoute différentes armures et items.",
+    "author": "Helie__",
+    "websiteURL": "https://curseforge.com/minecraft/mc-mods/houndmod",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "ogo_oundod",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "credits": "Ce mod a été créé par Helie__ sur le logiciel Mcreator.",
+    "modElementsPackage": "net.mcreator.houndmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
